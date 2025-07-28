@@ -53,7 +53,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="yolox",
-    version="0.3.10"
+    version="0.3.10",
     author="basedet team",
     python_requires=">=3.6",
     long_description=long_description,
